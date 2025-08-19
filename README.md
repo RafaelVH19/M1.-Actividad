@@ -5,4 +5,4 @@ Requerimientos para correr:
 - matplotlib
 - numpy
 
-The animation will be saved as a gif instide the folder
+La animacion se guardara como un GIF en la carpeta
